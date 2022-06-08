@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "665637536975",
+    "firebase_url": "https://chatapp-50b1c-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-50b1c",
+    "storage_bucket": "chatapp-50b1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665637536975:android:3e006b79fe46e497d123ba",
+        "android_client_info": {
+          "package_name": "com.volkancicek.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665637536975-fntctqtmtpg5liu7agc5ubkc6n3ripr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJmvoEYMiX01cX-pdg4yhngTYZ2ao-AC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665637536975-fntctqtmtpg5liu7agc5ubkc6n3ripr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

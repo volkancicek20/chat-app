@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+
+    android:outlineProvider="none">
+
+    <TextView
+        android:id="@+id/recyclerViewTextMessage"
+        android:layout_width="405dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:background="@drawable/textview_border"
+        android:outlineProvider="background"
+        android:text="Chat message"
+        android:padding="3dp"
+
+
+        android:textColor="@color/white" />
+
+</FrameLayout>
